@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: #161E25;
+    font-family: 'Manjari', sans-serif;
+}
+
+#full-web{
+    width: 100%;
+    background-color: #FAFAFA;
+}
+
+.header{
+    height: 100px;
+    background-color: #e4f9f5;       
+}
+
+.header h1{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo{
+    width: 20%;
+    height: 100px;
+    background-color: #7f4a88;
+    float: left;
+    clear: left;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.logo h1{
+    color: #fafafa;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-us{
+    width: 20%;
+    height: 100px;
+    background-color: #33425b;
+    float: right;
+    clear: right;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.contact-us h1{
+    color: #fafafa;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav{
+    height: 120px;
+    background-color: #30e3ca;
+}
+
+.nav h1{
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slider{
+    height: 400px;
+    background-color: #6eb6ff;
+}
+
+.slider h1{
+    height: 400px;
+    font-size: 5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contain{
+    height: 600px;
+    background-color: gray;
+}
+
+.selection{
+    width: 70%;
+    height: 300px;
+    float: left;
+    background-color: #e0f9b5;
+    
+}
+
+.selection h1{
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.article{
+    width: 70%;
+    height: 300px;
+    float: left;
+    clear: left;
+    background-color: #cabbe9;
+}
+
+.article h1{
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.aside{
+    position: absolute;
+    right: 0;
+    width: 30%;
+    height: 600px;
+    float: right;
+    clear: right;
+    background-color: #a2d5f2;
+}
+
+.aside h1{
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer{
+    height: 200px;
+    background-color: #40514e;
+}
+
+.footer h1{
+    color: #fafafa;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
